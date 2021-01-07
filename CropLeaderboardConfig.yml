@@ -1,0 +1,88 @@
+leaderboard-headerfooter: "&e&m============================"
+leaderboard-title: "&e      Crop Leaderboard"
+
+TrackedCrops:
+  - CACTUS
+  - WHEAT
+  - PUMPKIN
+  - MELON
+  - SUGAR_CANE
+  - CARROTS
+  - POTATOES
+
+gui-size: 9
+gui-name: 'Crop Statistics'
+gui:
+  '0':
+    Material: BLACK_STAINED_GLASS_PANE
+    Item_Name: '&8&l?&7&l?&8&l?'
+    Enchanted: false
+    Item_Lore:
+  '1':
+    Material: CACTUS
+    Item_Name: '&cCactus:'
+    Enchanted: true
+    Item_Lore:
+      - '&fClick to view the top players'
+      - '&ffor breaking Cactus'
+      - ''
+      - '&cYour Current: &f&n%broken%'
+  '2':
+    Material: WHEAT
+    Item_Name: '&cWheat:'
+    Enchanted: true
+    Item_Lore:
+      - '&fClick to view the top players'
+      - '&ffor breaking Wheat'
+      - ''
+      - '&cYour Current: &f&n%broken%'
+  '3':
+    Material: PUMPKIN
+    Item_Name: '&cPumpkin:'
+    Enchanted: true
+    Item_Lore:
+      - '&fClick to view the top players'
+      - '&ffor breaking Pumpkin'
+      - ''
+      - '&cYour Current: &f&n%broken%'
+  '4':
+    Material: MELON
+    Item_Name: '&cMelon:'
+    Enchanted: true
+    Item_Lore:
+      - '&fClick to view the top players'
+      - '&ffor breaking Melon'
+      - ''
+      - '&cYour Current: &f&n%broken%'
+  '5':
+    Material: SUGAR_CANE
+    Item_Name: '&cSugar Cane:'
+    Enchanted: true
+    Item_Lore:
+      - '&fClick to view the top players'
+      - '&ffor breaking Sugar Cane'
+      - ''
+      - '&cYour Current: &f&n%broken%'
+  '6':
+    Material: CARROTS
+    Item_Name: '&cCarrot:'
+    Enchanted: true
+    Item_Lore:
+      - '&fClick to view the top players'
+      - '&ffor breaking Carrot'
+      - ''
+      - '&cYour Current: &f&n%broken%'
+  '7':
+    Material: POTATOES
+    Item_Name: '&cPotato:'
+    Enchanted: true
+    Item_Lore:
+      - '&fClick to view the top players'
+      - '&ffor breaking Potato'
+      - ''
+      - '&cYour Current: &f&n%broken%'
+  '8':
+    Material: BLACK_STAINED_GLASS_PANE
+    Item_Name: '&8&l?&7&l?&8&l?'
+    Enchanted: false
+    Item_Lore:

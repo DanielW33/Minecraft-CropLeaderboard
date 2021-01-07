@@ -1,0 +1,12 @@
+main: me.MuchDan.CropLeaderboard.CropLeaderboard
+name: CropLeaderboard
+author: MuchDan
+version: 0.0.0
+api-version: 1.16
+
+commands:
+  Crops:
+    description: 'Crop Leaderboard'
+  CropLeaderboard:
+    permission: Crops.Reload
+    permission-message: "&cYou don't have permission to do that!"
